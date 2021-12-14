@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dd6ff31c-a268-4df1-9460-233e14a24bf1": {
+      "ProjectGuid": "dd6ff31c-a268-4df1-9460-233e14a24bf1",
+      "DisplayName": "matrixNxN",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
